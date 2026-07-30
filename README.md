@@ -12,6 +12,13 @@ Hello my name is Emanuel David Sandoval Jimenez, I am 18 years old, I am a softw
 - PYTHON
 - SQL
 - Git or GitHub
+- C#
+- Docker
+- Postgres
+- MySQL Workbench
+- HTML
+- CSS
+- JS
 
 ## My Hobbies 
 - 🎮 Video game
